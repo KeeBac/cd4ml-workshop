@@ -1,6 +1,6 @@
 build/**
 data/raw
-data/splitter
+
 data/*.csv
 test/__pycache__/
 *.pyc
